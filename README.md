@@ -6,4 +6,4 @@
 
 ### arXiv / 2026
 
-- **DONE** — [LAMP: Layerwise Adaptive Mixing of Predictors for Training-Free Few-Shot Vision-Language Adaptation](notes/vision-language/【arXiv‘2026】lamp.md) ([论文](https://arxiv.org/abs/2610.22182))
+- **DONE** — [LAMP: Layerwise Adaptive Mixing of Predictors for Training-Free Few-Shot Vision-Language Adaptation](notes/defi/【arXiv‘2026】lamp.md) ([论文](https://arxiv.org/abs/2610.22182))
