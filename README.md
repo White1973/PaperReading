@@ -8,3 +8,4 @@
 
 - **DONE** — [LAMP: Layerwise Adaptive Mixing of Predictors for Training-Free Few-Shot Vision-Language Adaptation](notes/defi/【arXiv‘2026】lamp.md) ([论文](https://arxiv.org/abs/2610.22182))
 - **DONE** — [Towards Generalist Game Players: An Investigation of Foundation Models in the Game Multiverse](notes/game-ai/【arXiv‘2026】towards-generalist-game-players.md) ([论文](https://arxiv.org/abs/2605.09965))
+- **DONE** — [GameVerse: Can Vision-Language Models Learn from Video-based Reflection?](notes/game-ai/【arXiv‘2026】gameverse.md) ([论文](https://arxiv.org/abs/2603.06656))
